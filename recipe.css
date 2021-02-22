@@ -1,0 +1,34 @@
+body{
+    background-image: url(silverware.jpg);
+}
+.top-menu{
+    overflow: hidden;
+    background-color: blue;
+    
+}
+.top-menu li{
+    list-style: none;
+    float: left;
+    padding: 6px 120px;
+    margin-bottom: 20px;
+}
+.top-menu li a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+ul.a{
+    list-style-type: circle;
+}
+.heading1{
+     font-family:Lucida Sans Unicode;
+     
+}
+ul li{
+list-style-image: url(pie_icon.gif);
+}
+.user-comments{
+font-style: italic;
+}
